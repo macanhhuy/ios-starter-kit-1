@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pdf 1</key>
+	<dict>
+		<key>title</key>
+		<string>Bundle Programming Guide</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet, tortor ut pulvinar auctor, libero massa consequat ipsum, ut varius dolor dolor eu enim. Quisque commodo pretium dui id sagittis. Sed molestie tristique volutpat. Vivamus eu orci neque. Aliquam mi nibh, malesuada ut molestie nec, mattis quis tortor. </string>
+		<key>filename</key>
+		<string>Bundle Programming Guide</string>
+		<key>thumbnail</key>
+		<string>thumb01</string>
+		<key>category</key>
+		<string>Professional Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>1</string>
+	</dict>
+	<key>pdf 2</key>
+	<dict>
+		<key>title</key>
+		<string>Core Animation Guide</string>
+		<key>description</key>
+		<string>Morbi porttitor lacinia viverra. Integer vel sem nisl, vitae aliquam purus. Proin accumsan dolor nec lacus molestie sit amet rhoncus augue fermentum. Quisque viverra turpis at mauris consequat sit amet lacinia arcu mattis. Aenean vel velit quis nisi condimentum rutrum a ut velit. Donec imperdiet lectus eget dui luctus dictum. Etiam sit amet dui eget lacus ornare feugiat eget sed metus. Vestibulum tempor condimentum diam.</string>
+		<key>filename</key>
+		<string>Core Animation Guide</string>
+		<key>thumbnail</key>
+		<string>thumb02</string>
+		<key>category</key>
+		<string>Professional Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>2</string>
+	</dict>
+	<key>pdf 3</key>
+	<dict>
+		<key>title</key>
+		<string>iOS Human Interface Guidelines</string>
+		<key>description</key>
+		<string>Nam vestibulum hendrerit pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent feugiat, nulla sit amet euismod consectetur, nulla purus imperdiet felis, id varius mauris dui ut orci. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+		<key>filename</key>
+		<string>iOS Human Interface Guidelines</string>
+		<key>thumbnail</key>
+		<string>thumb03</string>
+		<key>category</key>
+		<string>Professional Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>3</string>
+	</dict>
+	<key>pdf 4</key>
+	<dict>
+		<key>title</key>
+		<string>Notifications Programming Topics</string>
+		<key>description</key>
+		<string>In hac habitasse platea dictumst. Pellentesque pharetra, lorem sed cursus porttitor, augue risus pretium turpis, vitae gravida enim risus at nibh. Proin turpis arcu, iaculis vitae ultricies et, convallis a risus. Cras volutpat placerat enim, non ullamcorper erat tincidunt porttitor. Praesent id ligula quis sapien eleifend condimentum ut sit amet lectus. Nunc a nisi vel tellus eleifend adipiscing ac at mauris.</string>
+		<key>filename</key>
+		<string>Notifications Programming Topics</string>
+		<key>thumbnail</key>
+		<string>thumb04</string>
+		<key>category</key>
+		<string>Patient Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>1</string>
+	</dict>
+	<key>pdf 5</key>
+	<dict>
+		<key>title</key>
+		<string>Preferences and Settings Programming Guide</string>
+		<key>description</key>
+		<string>Pellentesque et sem leo. Integer vel lorem nulla. Nulla eu odio dui, vitae pretium sem. Nulla lorem magna, consequat non ornare sed, mattis suscipit ligula. Duis dolor mi, lobortis scelerisque pharetra ac, vulputate non odio. Duis sit amet adipiscing orci. Aliquam facilisis interdum lacus. Morbi vestibulum, neque eget feugiat egestas, arcu neque commodo orci, quis ultricies tellus elit in neque.</string>
+		<key>filename</key>
+		<string>Preferences and Settings Programming Guide</string>
+		<key>thumbnail</key>
+		<string>thumb05</string>
+		<key>category</key>
+		<string>Patient Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>2</string>
+	</dict>
+	<key>pdf 6</key>
+	<dict>
+		<key>title</key>
+		<string>Resource Programming Guide</string>
+		<key>description</key>
+		<string>Etiam in enim tellus. Nunc mollis orci sit amet sapien scelerisque a mollis nunc bibendum. Praesent laoreet, sem id accumsan pellentesque, tellus dui egestas est, scelerisque ullamcorper tellus turpis et tellus. In pellentesque congue ipsum. Ut pellentesque luctus fringilla. Suspendisse congue tincidunt velit, id venenatis metus adipiscing quis.</string>
+		<key>filename</key>
+		<string>Resource Programming Guide</string>
+		<key>thumbnail</key>
+		<string>thumb06</string>
+		<key>category</key>
+		<string>Patient Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>3</string>
+	</dict>
+	<key>pdf 7</key>
+	<dict>
+		<key>title</key>
+		<string>The Objective-C Programming Language</string>
+		<key>description</key>
+		<string>Fusce malesuada ligula sed metus porttitor in pretium erat feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum adipiscing sapien vitae augue consequat laoreet. Vivamus venenatis orci eget orci imperdiet rhoncus. Phasellus orci lacus, convallis nec accumsan ut, scelerisque ut tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+		<key>filename</key>
+		<string>The Objective-C Programming Language</string>
+		<key>thumbnail</key>
+		<string>thumb07</string>
+		<key>category</key>
+		<string>Patient Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>4</string>
+	</dict>
+	<key>pdf 8</key>
+	<dict>
+		<key>title</key>
+		<string>View Programming Guide for iOS</string>
+		<key>description</key>
+		<string>Proin non quam quis nulla dapibus fringilla ut quis purus. Nulla ipsum magna, mattis vitae luctus vitae, posuere eget mauris. Nam dui nulla, malesuada sed sagittis vel, aliquam non nisl. Aenean imperdiet aliquam felis, a pretium massa lacinia mattis. In mattis rutrum egestas. Nulla ultricies sollicitudin sollicitudin. Nam congue suscipit magna, non tristique ligula volutpat auctor. Maecenas ipsum massa, porta eget vestibulum at, venenatis a magna. Vivamus mattis aliquam erat eu aliquam.</string>
+		<key>filename</key>
+		<string>View Programming Guide for iOS</string>
+		<key>thumbnail</key>
+		<string>thumb08</string>
+		<key>category</key>
+		<string>Patient Resources</string>
+		<key>url</key>
+		<string>http://google.com</string>
+		<key>sortOrder</key>
+		<string>5</string>
+	</dict>
+</dict>
+</plist>
